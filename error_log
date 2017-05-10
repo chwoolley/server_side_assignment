@@ -1,0 +1,48 @@
+[18-Jan-2017 19:43:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/carl/public_html/cms/includes/header.php:34) in /home/carl/public_html/cms/login.php on line 23
+[18-Jan-2017 19:47:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/carl/public_html/cms/includes/header.php:34) in /home/carl/public_html/cms/view-project.php on line 27
+[18-Jan-2017 19:58:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obj_start() in /home/carl/public_html/cms/includes/header.php:4
+Stack trace:
+#0 /home/carl/public_html/cms/login.php(3): include()
+#1 {main}
+  thrown in /home/carl/public_html/cms/includes/header.php on line 4
+[18-Jan-2017 19:58:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obj_start() in /home/carl/public_html/cms/includes/header.php:4
+Stack trace:
+#0 /home/carl/public_html/cms/login.php(3): include()
+#1 {main}
+  thrown in /home/carl/public_html/cms/includes/header.php on line 4
+[18-Jan-2017 19:58:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obj_start() in /home/carl/public_html/cms/includes/header.php:4
+Stack trace:
+#0 /home/carl/public_html/cms/login.php(3): include()
+#1 {main}
+  thrown in /home/carl/public_html/cms/includes/header.php on line 4
+[18-Jan-2017 19:58:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obj_start() in /home/carl/public_html/cms/includes/header.php:4
+Stack trace:
+#0 /home/carl/public_html/cms/login.php(3): include()
+#1 {main}
+  thrown in /home/carl/public_html/cms/includes/header.php on line 4
+[18-Jan-2017 19:58:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obj_start() in /home/carl/public_html/cms/includes/header.php:4
+Stack trace:
+#0 /home/carl/public_html/cms/login.php(3): include()
+#1 {main}
+  thrown in /home/carl/public_html/cms/includes/header.php on line 4
+[18-Jan-2017 19:58:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obj_start() in /home/carl/public_html/cms/includes/header.php:4
+Stack trace:
+#0 /home/carl/public_html/cms/login.php(3): include()
+#1 {main}
+  thrown in /home/carl/public_html/cms/includes/header.php on line 4
+[18-Jan-2017 19:58:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obj_start() in /home/carl/public_html/cms/includes/header.php:4
+Stack trace:
+#0 /home/carl/public_html/cms/login.php(3): include()
+#1 {main}
+  thrown in /home/carl/public_html/cms/includes/header.php on line 4
+[18-Jan-2017 19:58:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obj_start() in /home/carl/public_html/cms/includes/header.php:4
+Stack trace:
+#0 /home/carl/public_html/cms/login.php(3): include()
+#1 {main}
+  thrown in /home/carl/public_html/cms/includes/header.php on line 4
+[18-Jan-2017 19:58:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function obj_start() in /home/carl/public_html/cms/includes/header.php:4
+Stack trace:
+#0 /home/carl/public_html/cms/login.php(3): include()
+#1 {main}
+  thrown in /home/carl/public_html/cms/includes/header.php on line 4
+[18-Jan-2017 20:01:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/carl/public_html/cms/includes/header.php:35) in /home/carl/public_html/cms/view-project.php on line 27
